@@ -1,0 +1,23 @@
+.portfolio {
+    margin-bottom: 20px;
+    padding: 70px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: hsl(202, 62%, 11%);
+    color: #ffffff;
+    display: flex;
+    align-items: center;
+}
+
+.portfolio h2 {
+    font-size: 40px;
+    width: 25%;
+    border-right: 2px solid oldlace;
+    line-height: 80px;
+}
+
+.portfolio p {
+    font-size: 16px;
+    width: 65%;
+    margin-left: 5%;
+}

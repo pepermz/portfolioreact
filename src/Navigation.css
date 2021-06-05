@@ -1,0 +1,20 @@
+ul {
+    list-style-type: none;
+    display: flex;
+}
+
+.Navigation {
+    margin-left: auto;
+
+}
+
+.nav-item {
+    margin-right: 10px;
+    color:white;
+    cursor: pointer;
+}
+
+.nav-item a {
+    text-decoration: none;
+    color:white
+}

@@ -1,0 +1,30 @@
+.projects {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: auto;
+    margin-right: 30px;
+}
+.img {
+    height: 200px;
+    width: 300px;
+    background-image: url(./Recess.png);
+    margin-bottom: 25px;
+    background-size: cover;
+    background-position: center;
+    border-color: blanchedalmond;
+    border-radius: 1%;
+    margin-right: 70%;
+    
+}
+.img2 {
+    height: 200px;
+    width: 300px;
+    background-image: url(./Safeflight.png);
+    margin-bottom: 25px;
+    background-size: cover;
+    background-position: center;
+    border-color: blanchedalmond;
+    border-radius: 1%;
+    
+  }
